@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - movie_notifier@134.209.238.174" uuid="c81721f8-f899-447e-9727-61734a6a82d8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://134.209.238.174:3306/movie_notifier</jdbc-url>
+    </data-source>
+  </component>
+</project>
