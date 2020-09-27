@@ -27,7 +27,7 @@ class Iptorrents:
     # reads username, password and cookie info from info.json
     @staticmethod
     def get_info():
-        with open("info.json", "r", encoding="utf-8") as f:
+        with open("../info.json", "r", encoding="utf-8") as f:
             iptorrents = json.load(f)["iptorrents"]
         return iptorrents["username"], iptorrents["password"], iptorrents["cookie"]
 

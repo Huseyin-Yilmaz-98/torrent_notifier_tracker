@@ -1,10 +1,10 @@
-from rarbg import Rarbg
+from Trackers.rarbg import Rarbg
 from SQL import SQL
 from functions import print_with_time, send_email
 import time
-from torrent_project import torrent_project
-from iptorrents import Iptorrents
-from torrent_galaxy import torrent_galaxy
+from Trackers.torrent_project import torrent_project
+from Trackers.iptorrents import Iptorrents
+from Trackers.torrent_galaxy import torrent_galaxy
 
 
 class Tracker:
