@@ -4,4 +4,4 @@ This program scans requested titles by users on torrent trackers and informs use
 
 In order for this program to fork, you need to have an info.json file in your current working directory. It looks like this:
 
-![info][https://cdn.rawgit.com/Xeraphin/torrent_notifier_tracker/master/images/info.json.png]
+![info.json][https://drive.google.com/file/d/1mLYy1M-AXPSN4_rjXCBU2Iwrp7m_kI5y/preview]
