@@ -8,7 +8,7 @@ This app scans requested titles by users on torrent trackers and informs users w
 
 In order for this app to work, you need to have an info.json file in your current working directory. It looks like this:
 
-![info](https://github.com/Xeraphin/torrent_notifier_tracker/blob/master/images/info.json.png?raw=true)
+![info](https://github.com/Xeraphin/torrent_notifier_tracker/blob/master/images/info.json..png?raw=true)
 
 SQL functions in this app was written for a MySQL 8.0 database. Provide credentials accordingly.
 
