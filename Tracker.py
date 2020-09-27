@@ -48,7 +48,7 @@ class Tracker:
                 self.sql.db = None
 
             print("")
-            time.sleep(10)
+            time.sleep(60)
 
     # Function that detects found requests and informs users
     def check_for_found_requests(self):
