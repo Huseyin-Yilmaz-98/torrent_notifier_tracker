@@ -4,4 +4,4 @@ This program scans requested titles by users on torrent trackers and informs use
 
 In order for this program to fork, you need to have an info.json file in your current working directory. It looks like this:
 
-![info.json][https://drive.google.com/file/d/1mLYy1M-AXPSN4_rjXCBU2Iwrp7m_kI5y/preview]
+![info.json][https://lh4.googleusercontent.com/KLJ-Q22um-8KPNO20o1YLRAP4CUdmvW1iT1NaIZ-xoaBl68Up1DAjuvtMbcbfkPvyDNG4PDeoZ1GlYyXh_-C=w1920-h937-rw]
