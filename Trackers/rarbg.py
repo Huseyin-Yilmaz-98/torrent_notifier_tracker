@@ -23,7 +23,7 @@ class Rarbg:
     # function that reads and returns the app_id from info.json file
     @staticmethod
     def get_app_id():
-        with open("../info.json", "r", encoding="utf-8") as f:
+        with open("info.json", "r", encoding="utf-8") as f:
             app_id = json.load(f)["rarbg"]["app_id"]
 
         return app_id
