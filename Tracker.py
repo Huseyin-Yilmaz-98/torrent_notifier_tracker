@@ -195,10 +195,10 @@ class Tracker:
             "brrip": ["brrip"],
             "webdl": ["webdl", "web-dl"],
             "webrip": ["webrip", "web-rip", " web "],
-            "ts": [" ts ", "hd-ts", "hdts", " cam ", "camrip", "cam-rip"],
-            "bluray": ["bluray"],
-            "hdtv": ["hdtv"],
-            "dvdrip": ["dvdrip", "dvd-rip", " dvd9 ", " dvd5 ", "dvd-r"],
+            "ts": [" ts ", "hd-ts", "hdts", " cam ", "camrip", "cam-rip", " hdcam "],
+            "bluray": ["bluray", "blu-ray"],
+            "hdtv": ["hdtv", "pdtv"],
+            "dvdrip": ["dvdrip", "dvd-rip", " dvd9 ", " dvd5 ", "dvd-r", "hddvd", " dvd ", "fulldvd", " dvdr "],
             "dvdscr": ["dvdscr", "dvd-scr"],
             "hdrip": ["hdrip"]
         }
